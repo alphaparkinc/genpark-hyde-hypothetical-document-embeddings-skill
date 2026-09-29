@@ -1,0 +1,20 @@
+{
+  "name": "genpark-hyde-hypothetical-document-embeddings-skill",
+  "version": "1.0.0",
+  "description": "HyDE hypothetical document query expansion and lexical-semantic similarity matching engine",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "hyde",
+    "query-expansion",
+    "hypothetical-document",
+    "agentic-rag",
+    "semantic-search",
+    "python-standard-library",
+    "agent-skills",
+    "lexical-matching",
+    "cosine-similarity",
+    "context-engineering"
+  ]
+}
