@@ -1,0 +1,6 @@
+name: genpark-hyde-hypothetical-document-embeddings-skill
+version: 1.0.0
+description: HyDE hypothetical document query expansion and lexical-semantic similarity matching engine
+command: python
+args:
+  - mcp_server.py
